@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main >
       <div className="bg-[#ccc] h-14 w-full"></div>
-      hello world
+      My Name PucsLiw
       <div className="px-16">
 
         <BinaryConverter />
